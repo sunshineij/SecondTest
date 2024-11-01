@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyFistApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="oneone">One,One</string>
+    <string name="onetwo">One,Two</string>
+    <string name="onethree">One,Three</string>
+    <string name="onefour">One,Four</string>
+    <string name="twoone">Two,One</string>
+    <string name="twotwo">Two,Two</string>
+    <string name="twothree">Two,Three</string>
+    <string name="twofour">Two,Four</string>
+    <string name="threeone">Three,One</string>
+    <string name="threetwo">Three,Two</string>
+    <string name="threethree">Three,Three</string>
+    <string name="threefour">Three,Four</string>
+    <string name="fourone">Four,One</string>
+    <string name="fourtwo">Four,Two</string>
+    <string name="fourthree">Four,Three</string>
+    <string name="fourfour">Four,Four</string>
+    <string name="top">Hello TableLayout</string>
+    <string name="table_layout_4_open">Open...</string>
+    <string name="table_layout_4_open_shortcut">Ctrl-O</string>
+    <string name="to">Save...</string>
+    <string name="tt">Ctrl-S</string>
+    <string name="fo">Save As...</string>
+    <string name="ft">Ctrl-Shift-S</string>
+    <string name="ffo">X Import...</string>
+    <string name="so">X Export...</string>
+    <string name="st">Ctrl-E</string>
+    <string name="sso">Quit</string>
+</resources>

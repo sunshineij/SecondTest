@@ -1,0 +1,165 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#514C5A"
+    android:orientation="vertical">
+
+    <!-- 第一行 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/oneone"
+            style="?android:attr/buttonStyle"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btn2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/onetwo"
+            style="?android:attr/buttonStyle"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btn3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/onethree"
+            style="?android:attr/buttonStyle"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btn4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/onefour"
+            style="?android:attr/buttonStyle"
+            android:textAllCaps="false"
+            />
+    </LinearLayout>
+
+    <!-- 第二行 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/twoone"
+            style="?android:attr/buttonStyle"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btn6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/twotwo"
+            style="?android:attr/buttonStyle"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btn7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/twothree"
+            style="?android:attr/buttonStyle"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btn8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/twofour"
+            style="?android:attr/buttonStyle"
+            android:textAllCaps="false" />
+    </LinearLayout>
+
+    <!-- 第三行 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/threeone"
+            style="?android:attr/buttonStyle"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btn10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/threetwo"
+            style="?android:attr/buttonStyle"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btn11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/threethree"
+            style="?android:attr/buttonStyle"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btn12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/threefour"
+            style="?android:attr/buttonStyle"
+            android:textAllCaps="false" />
+    </LinearLayout>
+
+    <!-- 第四行 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fourone"
+            style="?android:attr/buttonStyle"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btn14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fourtwo"
+            style="?android:attr/buttonStyle"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btn15"
+            style="?android:attr/buttonStyle"
+            android:layout_width="122dp"
+            android:layout_height="match_parent"
+            android:text="@string/fourthree"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btn16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fourfour"
+            style="?android:attr/buttonStyle"
+            android:textAllCaps="false" />
+    </LinearLayout>
+</LinearLayout>
